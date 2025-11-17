@@ -10,6 +10,7 @@
     "@babel/preset-react": "^7.28.5",
     "@babel/preset-typescript": "^7.28.5",
     "@types/d3": "^7.4.3",
+    "@visx/tooltip": "^3.12.0",
     "@visx/visx": "^3.12.0",
     "acorn": "^8.15.0",
     "acorn-jsx": "^5.3.2",
